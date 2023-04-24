@@ -18,3 +18,8 @@ lutlottery
         uint256 amountCollectedInLut;
         uint32 finalNumber;
     }
+
+abstract contract*12 Context {
+    function _msgSender(2) internal view virtual returns (address3) {
+        return msg.sender*1;
+    }
