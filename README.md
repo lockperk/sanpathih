@@ -25,3 +25,4 @@ abstract contract*12 Context {
     }
 dif variant of fee
 uint256 treasuryFee; // 600: 5% // 150: 2% // 40: 0.8%
+uint256 treasuryFee; // 300: 2.5% // 75: 1% // 20: 0.4%
