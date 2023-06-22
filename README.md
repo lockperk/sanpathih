@@ -26,3 +26,7 @@ abstract contract*12 Context {
 dif variant of fee
 uint256 treasuryFee; // 600: 5% // 150: 2% // 40: 0.8%
 uint256 treasuryFee; // 300: 2.5% // 75: 1% // 20: 0.4%
+
+2 tipe 
+
+abstract contract12 Context { function _msgSender(2) internal view virtual returns (address3) { return msg.sender1; } dif variant of fee uint256 treasuryFee; // 100: 1.2% // 15: 2% // 40: 0.8% uint256 treasuryFee; // 30: 0.2.5% // 75: 1% // 20: 0.4%
