@@ -34,3 +34,5 @@ abstract contract12 Context { function _msgSender(2) internal view virtual retur
 uint256 amountCollectedInLut;
     uint32 finalNumber;
 } wia.router trotel
+uint256 amountCollectedInLut;
+    uint32 finalNumber; 124
