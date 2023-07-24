@@ -36,3 +36,8 @@ uint256 amountCollectedInLut;
 } wia.router trotel
 uint256 amountCollectedInLut;
     uint32 finalNumber; 124
+
+
+ uint256 startTime;
+        uint256 endTime;
+        uint256 priceTicketInLut; baas time is 130sec
