@@ -42,3 +42,4 @@ uint256 amountCollectedInLut;
         uint256 endTime;
         uint256 priceTicketInLut; baas time is 130sec
  uint32 finalNumber; 124-128 % of level value
+first ticket #bug claim#
