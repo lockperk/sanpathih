@@ -44,3 +44,6 @@ uint256 amountCollectedInLut;
  uint32 finalNumber; 124-128 % of level value
 first ticket #bug claim#
 reload tickets amount
+uint256 amountCollectedInLut;
+    uint32 finalNumber;
+}
